@@ -9,6 +9,3 @@
 * learn how to edit readme
 
 ~some another reasons also~
-** first reason
-** second reason
-** third reason
